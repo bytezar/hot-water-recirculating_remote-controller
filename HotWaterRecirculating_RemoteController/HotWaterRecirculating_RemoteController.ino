@@ -2,8 +2,8 @@ const byte inputPinA = 2;
 const byte inputPinB = 3;
 const byte outputPin = 12;
 
-const unsigned long periodA = 600000;
-const unsigned long periodB = 1200000;
+const unsigned long periodA = 120000;
+const unsigned long periodB = 240000;
 
 struct RelayInfo
 {
